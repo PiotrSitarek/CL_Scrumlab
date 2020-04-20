@@ -1,6 +1,6 @@
 let addRecipesWidget = document.querySelector('#addRecipesWidget');
 addRecipesWidget.addEventListener('click', function () {
-  window.location.href = "./addrecipe.html"
+  window.location.href = "./addrecipe.html";
 });
 
 let addPlansWidget = document.querySelector('#addPlansWidget');
